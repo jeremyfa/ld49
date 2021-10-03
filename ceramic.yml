@@ -1,0 +1,20 @@
+app:
+    package: jeremyfa.ld49
+    name: ld49
+    displayName: It Will Fall
+    author: Jeremy Faivre
+    version: '1.0'
+
+    plugins:
+        - nape
+
+    libs:
+        #- somelib
+        #- somelib: someversion
+        #- somelib: git:https://github.com/somelibauthor/somelib.git
+
+    defines:
+        - ceramic_web_minify
+        #- some_define
+        #- some_define: 'some value'
+

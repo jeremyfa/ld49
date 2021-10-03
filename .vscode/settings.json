@@ -1,0 +1,14 @@
+{
+    "window.title": "${activeEditorShort} — ld49",
+    "haxe.configurations": [
+        [
+            "completion.hxml"
+        ]
+    ],
+    "search.exclude": {
+        "**/.git": true,
+        "**/node_modules": true,
+        "**/tmp": true,
+        "**/out": true
+    }
+}
